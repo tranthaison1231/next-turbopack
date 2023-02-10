@@ -6,7 +6,6 @@ const nextConfig = {
     removeConsole: true,
   },
   experimental: {
-    // Required:
     appDir: true,
   },
 };
